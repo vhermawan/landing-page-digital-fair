@@ -9,7 +9,7 @@ export function Footer() {
               <span className="text-xl font-semibold">Creative.</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Creative is where your imagination meets our expertise. We're passionate about bringing your ideas to life
+              Creative is where your imagination meets our expertise. We&apos;re passionate about bringing your ideas to life
               through exceptional design and innovative solutions.
             </p>
             <div className="space-y-2">
